@@ -1,1 +1,7 @@
 Competitive programming 3 -Steven Halim and Falix Halim
+KMP:
+prefix_table :
+        1. https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/
+        2. http://www.shafaetsplanet.com/?p=3209
+ contest:
+        1. https://vjudge.net/contest/286541#overview
